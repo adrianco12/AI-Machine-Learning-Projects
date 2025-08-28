@@ -1,6 +1,6 @@
-# AI & Machine Learning Course Projects
+# AI & Machine Learning Projects
 
-Welcome to the repository for my AI and Machine Learning class projects. This repository contains all the work completed during a hands-on introduction to machine learning and artificial intelligence using Python, Scikit-Learn, TensorFlow, and Keras.
+Welcome to the repository for my AI and Machine Learning projects. This repository contains all the work completed during a hands-on introduction to machine learning and artificial intelligence using Python, Scikit-Learn, TensorFlow, and Keras.
 
 ## Course Overview
 
