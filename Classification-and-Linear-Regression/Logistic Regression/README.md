@@ -10,7 +10,7 @@ It uses the **sigmoid (logistic) function** to map predictions to a range betwee
 ## 🔑 Key Concepts
 - **Sigmoid Function**  
   \[
-  \sigma(z) = \frac{1}{1 + e^{-z}}
+sigmoid(z) = 1 / (1 + e^(-z))
   \]  
   Converts linear outputs into probabilities between 0 and 1.
 
